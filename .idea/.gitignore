@@ -4,3 +4,8 @@
 .idea/
 *.log
 *.xml
+*.iml
+*.iws
+log/
+target/
+
